@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/01/logout.jsp=UTF-8
+encoding//WebRoot/01/register.jsp=UTF-8
+encoding//WebRoot/02/registerActivity.jsp=UTF-8
+encoding//WebRoot/css/index.css=UTF-8
+encoding//WebRoot/main.jsp=UTF-8
+encoding//src/com/wwfly/cache/JsonUtil.java=UTF-8
+encoding//src/com/wwfly/login/BasicUserInfoService.java=UTF-8
+encoding//src/com/wwfly/service/in/LoginServlet.java=UTF-8
+encoding//src/com/wwfly/service/result/Pair.java=UTF-8
+encoding//src/com/wwfly/service/result/TravelRoutineData.java=UTF-8
+encoding//src/com/wwfly/test/TestTravel.java=UTF-8

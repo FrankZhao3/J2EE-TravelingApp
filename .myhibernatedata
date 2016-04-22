@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Wed Jul 08 13:51:59 CST 2015
+genBasicCompId=false
+sessionFactoryName=com.wwfly.sessionfactory.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=native
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/WWFLY/src/hibernate.cfg.xml
+createConfigFile=true
